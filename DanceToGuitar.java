@@ -1,5 +1,6 @@
 
 
-public class DanceToGuitar {
+public class DanceToGuitar extends GuitarController {
+
     
 }
